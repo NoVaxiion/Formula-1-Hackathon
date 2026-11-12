@@ -7,7 +7,7 @@ It began as a **Python-based scraper and vector search tool**, later rebuilt as 
 
 ---
 
-## ⚙️ Repository Purpose
+## Repository Purpose
 
 This repo is a **fork of the main F1NAB project**, created to:
 - Complete **final UI repairs and functional updates**
