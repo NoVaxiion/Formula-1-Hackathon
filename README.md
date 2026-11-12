@@ -1,6 +1,6 @@
 **Note**: This project hasn't been uploaded to Vercel so Forking this Repo without the APIs won't function. Sorry!
 
-# 🏎️ F1NAB — Formula 1 AI Chat & Data Exploration
+# F1NAB — Formula 1 AI Chat & Data Exploration
 
 **F1NAB** (Formula 1 News & Analysis Bot) is a hybrid AI assistant and data analytics project originally developed during **HackUMass**.  
 It began as a **Python-based scraper and vector search tool**, later rebuilt as a **React + Node.js AI chat interface** styled after the Formula 1 brand.
@@ -14,12 +14,12 @@ This repo is a **fork of the main F1NAB project**, created to:
 - Preserve the **original Python backend modules**
 - Showcase the **final AI chat interface** and Formula 1 theming  
 
-> ⚠️ The **Pinecone vector database** is **hosted online and private**, so cloning this repo will **not reproduce full functionality**.  
+> The **Pinecone vector database** is **hosted online and private**, so cloning this repo will **not reproduce full functionality**.  
 This version is for **reference, archival, and educational** purposes only.
 
 ---
 
-## ⚠️ Project Status
+## Project Status
 
 In **December 2024**, the official **Formula 1** website implemented stricter scraping and API blocks, breaking data collection and embeddings.  
 Since then:
@@ -29,7 +29,7 @@ Since then:
 
 ---
 
-## 💡 Overview
+## Overview
 
 F1NAB explored how **AI**, **automation**, and **semantic data search** can be combined for real-time Formula 1 insights.
 
@@ -46,7 +46,7 @@ F1NAB explored how **AI**, **automation**, and **semantic data search** can be c
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Layer | Tools |
 |-------|-------|
@@ -57,7 +57,7 @@ F1NAB explored how **AI**, **automation**, and **semantic data search** can be c
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 - **Kenneth Maeda** — AI integration, backend development, web scraping, data processing and embeddings  
 - **Sergio Montudar** — Frontend and API infrastructure, and integration  
@@ -66,12 +66,12 @@ F1NAB explored how **AI**, **automation**, and **semantic data search** can be c
 
 Developed at **HackUMass**, then finalized as a **UI concept fork** for documentation and preservation.
 
-## 📸 Video Demo
+## Video Demo
 
 
 https://github.com/user-attachments/assets/0ad4a70a-09fb-474f-8006-4ea9ccee19d4
 
 
 
-### 🏁 Created by Kenneth Maeda  
+### Created by Kenneth Maeda, Sergio Montufar, Aditya Manoj Krishna
 Built with precision, caffeine, and a love for Formula 1.
